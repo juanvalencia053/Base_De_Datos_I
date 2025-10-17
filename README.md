@@ -24,6 +24,6 @@
 
   <h3 style="color: #2c3e50; font-size: 19px; margin-top: 25px;">Tareas</h3>
   <ul style="list-style-type: none; padding: 0; margin: 15px auto; line-height: 1.8; font-size: 16px; color: #333;">
-    <li style="background-color: #eaf2fb; margin: 6px auto; padding: 8px; border-radius: 8px; width: fit-content;">Tia03: Este proyecto consistió en el diseño y normalización de una base de datos para un hospital ficticio, aplicando las formas normales (1FN, 2FN y 3FN) para eliminar redundancias y garantizar la integridad de los datos. Se identificaron entidades clave como pacientes, médicos y visitas, y se documentó todo en un diccionario de datos detallado. El objetivo fue crear un modelo eficiente que optimice la gestión de información crítica en entornos de salud. </li>
+    <li style="background-color: #eaf2fb; margin: 6px auto; padding: 8px; border-radius: 8px; width: fit-content;"><b>Tia03:</b> Este proyecto consistió en el diseño y normalización de una base de datos para un hospital ficticio, aplicando las formas normales (1FN, 2FN y 3FN) para eliminar redundancias y garantizar la integridad de los datos. Se identificaron entidades clave como pacientes, médicos y visitas, y se documentó todo en un diccionario de datos detallado. El objetivo fue crear un modelo eficiente que optimice la gestión de información crítica en entornos de salud. </li>
   </ul>
 </div>
